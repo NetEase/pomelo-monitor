@@ -1,0 +1,6 @@
+{
+  "name": "pomelo-monitor",
+  "version": "0.1.2",
+  "main": "./lib/monitor",
+  "author": "XiaogangZhang <zhang0925@gmail.com>"
+}
