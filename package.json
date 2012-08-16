@@ -1,6 +1,23 @@
 {
   "name": "pomelo-monitor",
-  "version": "0.1.2",
-  "main": "./lib/monitor",
-  "author": "XiaogangZhang <zhang0925@gmail.com>"
+  "version": "0.2.3",
+  "_id": "pomelo-monitor@0.2.3",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.18",
+  "_defaultsLoaded": true,
+  "_from": "pomelo-monitor@>=0.1.2",
+  "_npmUser": {
+    "name": "lwj",
+    "email": "lwj19861218@163.com"
+  },
+  "dist": {
+    "shasum": "5d9c34689f14837f92e2f6f0b81c5674b092b2f9"
+  }
 }
