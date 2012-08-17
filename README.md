@@ -1,4 +1,4 @@
 monitor
 =======
 
-monitor the operating system info and process info
+monitor the operating-system info and process info
