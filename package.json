@@ -1,6 +1,8 @@
 {
   "name": "pomelo-monitor",
+	"description": "monitor the operating-system and process information",
   "version": "0.2.5",
+	"author": "halfblood369 <halfblood369@gmail.com>"
   "_id": "pomelo-monitor@0.2.5",
   "dependencies": {},
   "devDependencies": {},
@@ -8,6 +10,13 @@
   "engines": {
     "node": "*"
   },
+	"keywords": {
+		"monitor",
+		"node",
+		"script"
+	},
+	"repository": "https://github.com/halfblood369/monitor.git",
+	"main": "index",
   "_engineSupported": true,
   "_npmVersion": "1.1.21",
   "_nodeVersion": "v0.6.18",
@@ -20,5 +29,4 @@
   "dist": {
     "shasum": "5d9c34689f14837f92e2f6f0b81c5674b092b2f9"
   }
-
 }
