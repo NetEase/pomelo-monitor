@@ -8,20 +8,19 @@ Simple, comprehensive monitoring tool for operating-system and process in nodejs
 
 ## Usage
 
-	var processMonitor = require('../lib/processMonitor');
-	var systemMonitor = require('../lib/systemMonitor');
+	var monitor = require(pomelo-monitor);
 
 	var param = {
 		pid: process.pid,
 		serverId: 'node-1'
 	};
 
-	processMonitor.getPsInfo(param, function(data) {
+	monitor.psmonitor.getPsInfo(param, function(data) {
 		console.log('process information is :', data);
 	});
 
-	systemMonitor.getSysInfo(function(data) {
-		console.log('operating-system information is: ', data);
+	monitor.sysmonitor.getSysInfo(function(data) {
+		console.log('operating-system information is :', data);
 	});
 
 ## Features
