@@ -4,7 +4,7 @@ Simple, comprehensive monitoring tool for operating-system and process in nodejs
 
 ## Installation
 
-	$ npm install -g monitor
+	$ npm install -g pomelo-monitor
 
 ## Usage
 
