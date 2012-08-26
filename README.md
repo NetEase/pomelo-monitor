@@ -6,6 +6,24 @@ Simple, comprehensive monitoring tool for operating-system and process in nodejs
 
 	$ npm install -g monitor
 
+## Usage
+
+	var processMonitor = require('../lib/processMonitor');
+	var systemMonitor = require('../lib/systemMonitor');
+
+	var param = {
+		pid: process.pid,
+		serverId: 'node-1'
+	};
+
+	processMonitor.getPsInfo(param, function(data) {
+		console.log('process information is :', data);
+	});
+
+	systemMonitor.getSysInfo(function(data) {
+		console.log('operating-system information is: ', data);
+	});
+
 ## Features
 
   * Simple and comprehensive
