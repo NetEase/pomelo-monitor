@@ -1,6 +1,7 @@
 ## Monitor
 
 Simple, comprehensive monitoring tool for operating-system and process in nodejs.
+* Tags: nodejs, monitor
 
 ## Installation
 
