@@ -1,7 +1,7 @@
 {
   "name": "pomelo-monitor",
 	"description": "monitor the operating-system and process information",
-  "version": "0.2.7",
+  "version": "0.2.8",
 	"author": "halfblood369 <halfblood369@gmail.com>",
   "_id": "pomelo-monitor@0.2.7",
   "dependencies": {},
